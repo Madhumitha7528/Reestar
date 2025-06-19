@@ -11,7 +11,7 @@ A fully responsive and visually appealing restaurant website built using **HTML*
 
 - Responsive design for mobile, tablet, and desktop
 - Homepage with hero section and call-to-action
-- Menu page displaying items with pricing
+- Menu page displaying items 
 - About section and contact information
 - Clean and modern layout using only HTML5 & CSS3
 
@@ -33,10 +33,6 @@ restaurant-website/
 │ └── (your images here)
 └── README.md
 
-bash
-Copy
-Edit
-
 ## 🚀 Getting Started
 
 To view or modify the website locally:
@@ -46,9 +42,6 @@ To view or modify the website locally:
    git clone https://github.com/your-username/restaurant-website.git
 Navigate to the project directory:
 
-bash
-Copy
-Edit
 cd restaurant-website
 Open index.html in your browser to view the site.
 
